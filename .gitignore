@@ -1,0 +1,15 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Linux system files
+*.swp
+*.bak
+
+# Ignore the output of the script (if any)
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore any other sensitive files (e.g., if you have a config with credentials)
+config.yml
