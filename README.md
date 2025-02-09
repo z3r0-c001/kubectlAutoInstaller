@@ -78,7 +78,7 @@ If you encounter issues, consider the following:
   ```
 
 ## License
-This project is open-source and available under the [MIT License](license).
+This project is open-source and available under the [MIT License](LICENSE).
 
 ## Attribution
 This script was developed and maintained by [z3r0-c001](https://github.com/z3r0-c001). Contributions and feedback are welcome!
