@@ -30,7 +30,7 @@ The script automatically handles most dependencies, but you'll need:
 
 1. **Download and run**:
    ```bash
-   wget https://raw.githubusercontent.com/your-repo/kubectlAutoInstaller/main/kubectlAutoInstaller.sh
+   wget https://raw.githubusercontent.com/z3r0-c001/kubectlAutoInstaller/main/kubectlAutoInstaller.sh
    chmod +x kubectlAutoInstaller.sh
    ./kubectlAutoInstaller.sh
    ```
